@@ -25,5 +25,5 @@ ng update @angular/cli
 "bootstrap": "3.3.7"
 
 * If publishing on IIS modify angular.json adding:
-"baseHref": "/Angular5Core2/"
+"baseHref": "/SiteFolder/"
 
