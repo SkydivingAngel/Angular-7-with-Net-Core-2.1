@@ -1,4 +1,5 @@
 ## In order to Create an Angular 7 project using Net Core 2.1 as back-end follow theese steps:
+#### Angular 7 now supports Typescript 3.1, RxJS 6.3 and Node 10
 
 * Update SPA Net Templates:
 dotnet new --install Microsoft.AspNetCore.SpaTemplates::*
@@ -27,3 +28,4 @@ ng update @angular/cli
 
 * If publishing on IIS modify angular.json adding:
 "baseHref": "/Angular5Core2/"
+
