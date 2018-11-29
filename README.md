@@ -5,6 +5,7 @@ dotnet new --install Microsoft.AspNetCore.SpaTemplates::*
 
 
 2)Create the Project
+
 dotnet new angular -o angular7core2test
 
 
