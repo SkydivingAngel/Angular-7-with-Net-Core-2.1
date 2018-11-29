@@ -1,7 +1,6 @@
 # In order to Create an Angular 7 project using Net Core 2.1 as back-end follow theese steps:
 
-1.
-Update SPA Net Templates:
+*Update SPA Net Templates:
 dotnet new --install Microsoft.AspNetCore.SpaTemplates::*
 
 2.
