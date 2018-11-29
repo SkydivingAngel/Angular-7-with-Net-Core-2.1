@@ -14,8 +14,7 @@ Remove "--extract-css" from "start "and "build".
 It's now defined in "angular.json"
 
 * Update Angular Version to latest (command line on ClientApp folder):
-ncu -u
-npm install
+ncu -u then npm install
 
 * Update to "angular.json" -> Migration -.angular-cli.json to angular.json (command line on ClientApp folder):
 ng update @angular/cli
