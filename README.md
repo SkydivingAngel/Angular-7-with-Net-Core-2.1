@@ -10,7 +10,7 @@ dotnet new angular -o angular7core2test
 * Open the project file (csproj) with Visual Studio and Save the Solution
 
 * Modify package.json:
-Remove "--extract-css" from "start "and "build"
+Remove "--extract-css" from "start "and "build".
 It's now defined in "angular.json"
 
 * Update Angular Version to latest (command line on ClientApp folder):
