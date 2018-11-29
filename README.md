@@ -6,7 +6,7 @@ dotnet new --install Microsoft.AspNetCore.SpaTemplates::*
 * Create the Project
 dotnet new angular -o angular7core2test
 
-* Open the project file with Visual Studio and Save the Solution
+* Open the project file (csproj) with Visual Studio and Save the Solution
 
 * Modify package.json:
 Remove "--extract-css" because it's now defined in "angular.json" -> "extractCss": true,
